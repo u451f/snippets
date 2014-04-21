@@ -1,0 +1,2 @@
+cat avi1.avi avi2.avi avix.avi > avi_all.avi
+ffmpeg -i avi_all.avi -acodec copy -vcodec copy avi_all_reindexed.avi
