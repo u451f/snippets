@@ -1,0 +1,58 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Thu, 12 Jun 2014 08:30:02 +0200
+Source: torbrowser-launcher
+Binary: torbrowser-launcher
+Architecture: source all
+Version: 0.1.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: Jacob Appelbaum <jacob@appelbaum.net>
+Changed-By: Ulrike Uhlig <u@451f.org>
+Description:
+ torbrowser-launcher - helps download, update and run the Tor Browser Bundle
+Closes: 751284
+Changes:
+ torbrowser-launcher (0.1.0-1) unstable; urgency=low
+ .
+   * Non-maintainer upload.
+   * New upstream version. (Closes: #751284)
+   * debian/control:
+     - Added homepage, Vcs-Git and Vcs-Browser information.
+   * debian/watch added
+   * debian/upstream/signing-key.asc added
+Checksums-Sha1:
+ a4d0ca34929590264a065e477fc4452412168c76 1978 torbrowser-launcher_0.1.0-1.dsc
+ 04866b7cc01622833d0d4cd9b6ec6ad5cfaea9ad 284795 torbrowser-launcher_0.1.0.orig.tar.gz
+ 582477194efd34c483c8574e16279509d535998c 12836 torbrowser-launcher_0.1.0-1.debian.tar.xz
+ c2f350caf15713d176b7e3236a350e1ef8ab2833 266776 torbrowser-launcher_0.1.0-1_all.deb
+Checksums-Sha256:
+ 5193217090464932b2bf470cb819d8ca220486525396eb64c16e7ef2604ee577 1978 torbrowser-launcher_0.1.0-1.dsc
+ f30daf97a80ab40d6691193cb242647d776c69630ace9a2e07c15305efa54e3f 284795 torbrowser-launcher_0.1.0.orig.tar.gz
+ 970ddc64b4580ff56e375d9d0f93970644dd5468d2fe89b4bbb66c98a85036d7 12836 torbrowser-launcher_0.1.0-1.debian.tar.xz
+ b45683420ac0a476546d2dc59d318129b4f48c617b5a49f8ab4f049a05c719d9 266776 torbrowser-launcher_0.1.0-1_all.deb
+Files:
+ 7d459dc84a5de371c9948fb8c63c255a 266776 python optional torbrowser-launcher_0.1.0-1_all.deb
+ 691cc6304f19009c7c21a7503973dfb3 1978 python optional torbrowser-launcher_0.1.0-1.dsc
+ 9d1dcf621fac63d967a08326a830130d 284795 python optional torbrowser-launcher_0.1.0.orig.tar.gz
+ 1331d752a5bdf93ef02449153c24e7e2 12836 python optional torbrowser-launcher_0.1.0-1.debian.tar.xz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQIcBAEBAgAGBQJTmX7BAAoJELFLsMONhhzxmI0P/01WKrb5bBSd9rCYHc54j4Kh
+FfJUSyUSeNyjLPZf4r0PBAjy7nzUWcmcyRaCrItycYNgM7rQgIjBmNKX01xTbYIj
+qk8oEYGWVHPr1NTv7DjgnjshiO787rNZaxmwfCcFUhm3PTkTKbLEhl5habh6BjmB
+mf1sI7pue3EZJh6XaHEIUgM451G4SA2MnMVB2yHWCXShOv9f2p+1pVYEpepYQT56
+EoZMqtwlQOftypNgcJm+ELqHdVYrE3V51rnM7RIo31UL1vPtf39fL3n27IJJXhPF
+jTJyP4PemjzN2kH4rrbDx27g4bR+ajclqn/tyqRuivJ4ie44qzGmrPbHg64CKK3I
+GWN7FgHJ4V5gK9VFkeYNi5BzEWkOCMAmL4coUgHNghzcojNyQ3WLmpPdDpDGaswI
+cZvDq1ZqrZRHTAPu+dlR3QuSyri3CXAZYYZMQLvJgmOIL04m4rKcTE0YXvgUauo3
+/Sls5CVApyhUBujkkytJW+ssEytDMpyghfYNEZ9FjtEK5RLpYJt9GpyQ00PW6j4S
+KEdJh4qkRKKAZJcuwei3c1Xh4hH5MVkMfe5Y+TtD8CcwcoeQMNdbHiueOk9Sfav5
+90+vAg76pA72GY4v44eRsLeo7Fsj6KdStRqlS2QMKHEb+n/yDvpmMJbCZX1SNXpX
+muTw2Q40LDjRPe+JcSQV
+=o1cK
+-----END PGP SIGNATURE-----
